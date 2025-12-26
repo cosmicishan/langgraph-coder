@@ -86,5 +86,3 @@ The graph is compiled in `Graphs/compile_graph.py` and follows this path:
 `START` ➔ **Planner** ➔ **Architect** ➔ **Coder** (with Tool Access) ➔ `END`
 
 ---
-
-PRANAM! Would you like me to add a "Troubleshooting" section or a specific code example showing how the `Coder` uses the file tools?
